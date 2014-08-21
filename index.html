@@ -26,5 +26,20 @@
     <option value="B3">B3</option>
 </select>
 <script src="fireDropDown.js"></script>
+<script>
+$(function () {
+
+    $('#selectA').on('change',function(ev){
+       console.log($('#selectA').val());
+    });
+
+    $('#selectA').fireDropDown({
+        'background':'#0f0',
+        'hover':{
+            'background':'#f00'
+        }
+    });
+});
+</script>
 </body>
 </html>
