@@ -1,7 +1,7 @@
 FireDropDown
 ============
 
-If you want to customize your html select tag , you can try this jquery plugin.
+When you hover html select tags , this jquery plug can show option list automatically and customize your list style.
 
 
 example:
