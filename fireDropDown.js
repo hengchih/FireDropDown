@@ -79,18 +79,5 @@
     };
 })(jQuery);
 
-$(function () {
-
-    $('#selectA').on('change',function(ev){
-       console.log($('#selectA').val());
-    });
-
-    $('#selectA').fireDropDown({
-        'background':'#0f0',
-        'hover':{
-            'background':'#f00'
-        }
-    });
-});
 
 
