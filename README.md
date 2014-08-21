@@ -1,7 +1,7 @@
 FireDropDown
 ============
 
-When you hover html select tags , this jquery plugin can show option list automatically and customize your list style.
+When you hover html select tags , this jquery plugin can show option list automatically. In addition, you can also customize list style.
 
 
 example:
