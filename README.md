@@ -1,7 +1,7 @@
 FireDropDown
 ============
 
-if you want to customize your html select tag , you can try this jquery plugin.
+If you want to customize your html select tag , you can try this jquery plugin.
 
 
 example:
