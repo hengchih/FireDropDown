@@ -6,6 +6,7 @@ if you want to customize your html select tag , you can try this jquery plugin.
 
 example:
 
+<pre>
  $('#selectA').fireDropDown({
         'color':'#000'
         'background':'#0f0',
@@ -16,3 +17,4 @@ example:
             'background':'#f00'
         }
     });
+</pre>
