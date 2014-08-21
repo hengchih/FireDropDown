@@ -1,3 +1,8 @@
+/**
+ * Created by hengchih on 2014/8/21.
+ */
+
+
 (function ($) {
     $.fn.fireDropDown = function (parameter) {
         return this.each(function () {
